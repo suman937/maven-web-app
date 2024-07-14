@@ -8,7 +8,7 @@
   
   <h3> Our Ofc Location : Ameerpet, Hyderbad </h3>
   <h1> This is added my Suman </h3>
-  <h3> This is added to check for SCM <h1>(software change Management)</h1> </h3>
+  <h3> This is added to check for SCM (software change Management)</h3>
 
 <h1> INDIA </h1>
 
